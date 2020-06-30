@@ -1,618 +1,523 @@
-#**Holacracy Constitution**
+# **Конституция Холакратии**
 
+## Преамбула
 
-###PREAMBLE
+***«Управляющие лица организации»*** принимают эти правила как формальную структуру полномочий в обозначенной ***"Организации"***. Управляющие лица организации и все другие ***"Партнеры"***, принимающие участие в управленческой и операционной деятельности Организации, должны это делать в соответствии с правилами и процессами, определенными в этом документе.
 
-This **_“Constitution”_** defines rules and processes for the governance and operations of an organization. The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its **_“Partners”_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
+Управляющие лица или их преемники могут изменить или аннулировать эту конституцию, опираясь на те же полномочия, что и при её введении. Изменения должны быть доступны в письменной форме всем Партнёрам. 
 
-## Article I: Energizing Roles
 
-### 1.1 Definition of a Role
+## Статья 1: Организационная структура
 
-The Organization’s Partners will typically perform work for the Organization by acting in an explicitly defined Role. A **_“Role”_** is an organizational construct with a descriptive name and one or more of the following:
+### 1.1 Определение Роли
 
-- **(a)** a **_“Purpose”_**, which is a capacity, potential, or unrealizable goal that the Role will pursue or express on behalf of the Organization.
-- **(b)** one or more **_“Domains”_**, which are things the Role may exclusively control and regulate as its property, on behalf of the Organization.
-- **(c)** one or more **_“Accountabilities”_**, which are ongoing activities of the Organization that the Role will enact.
+***"Роль"*** — это организационная единица, в рамках которой кто-то может действовать в интересах организации (выполнять Роль). Определение Роли состоит из информативного названия и одного или более из следующих элементов:
 
-### 1.2 Responsibilities of Role-Filling
+- **А)** ***"Миссии"*** - способности, возможности или цели, которую Роль преследует или выражает.
+- **Б)** Одного или нескольких ***"Доменов"*** - то есть имущества, процессов, или других вещей, которые находится под исключительным контролем Роли, и которой она распоряжается как своей собственностью, для реализации своей Миссии.
+- **В)** Одного или нескольких ***"Обязательств"*** – постоянных активностей, выполнение которых Роль берет на себя, чтобы исполнять свою Миссию и помогать другим Ролям.
 
-As a Partner of the Organization, you have the following responsibilities for each Role that you are assigned to and agree to fill:
+Роль так же может содержать ***"Политики"*** — то есть ограничения или расширение полномочий, или специальные правила, применяемые к операционной деятельности в рамках Роли.
 
-#### 1.2.1 Processing Tensions
+### 1.2 Назначение на Роль
 
-You are responsible for monitoring how your Role’s Purpose and Accountabilities are expressed, and comparing that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a **_“Tension”_**). You are also responsible for trying to resolve those Tensions by using the authorities and other mechanisms available to you under this Constitution.
+Роль может контролировать, кто выполняет другую Роль, посредством Домена на назначение исполнителя этой Роли. Любой, кто контролирует такой Домен, может назначить на целевую Роль любого, кто согласится её выполнять, включая возможность назначить несколько людей одновременно. Тот, кто выполняет роль, становится ***"Лидером Роли"***. Лидер Роли может отказаться от выполнения роли в любой момент, если не было другой договорённости. Тот, кто контролирует назначение на Роль, так же может снять ***"Лидера Роли"*** в любой момент. Посредством Политик можно вводить дополнительные ограничения на назначения и снятия с Ролей.
 
-#### 1.2.2 Processing Purpose & Accountabilities
+#### 1.2.1 Назначение по умолчанию
 
-You are responsible for regularly considering how to enact your Role's Purpose and each of your Role’s Accountabilities, by defining:
+Если Роль не назначена, любой кто контролирует назначение на неё, автоматически считается Лидером этой Роли.
 
-- **(a)** **_“Next-Actions”_**, which are actions you could execute immediately and that would be useful to execute immediately, at least in the absence of competing priorities; and
-- **(b)** **_“Projects”_**, which are specific outcomes that require multiple sequential actions to achieve and that would be useful to work towards, at least in the absence of competing priorities.
+В случае, если среди Лидеров Роли нет Партнёров Организации, любой Партнёр, контроллирующий назначение на эту Роль, так же считается Лидером этой Роли. Однако, такое назначение по умолчанию применимо лишь в той мере, в которой назначенные на Роль люди не могут активно исполнять все обязанности, связанные с таким назначением.
 
-#### 1.2.3 Processing Projects
+#### 1.2.2 Фокус назначения
 
-You are responsible for regularly considering how to complete each Project you are actively working towards for your Role, including by defining any Next-Actions useful to move the Project forward.
+Назначающий на роль может сфокусировать такое назначение на определённой области или контексте, если все элементы определения Роли по прежнему релевантны в рамках такого фокуса. Когда используется фокус, каждое назначение на Роль рассматривается как полностью отдельная Роль. При этом Миссия Роли, Обязательства и Домены применяются только в рамках фокуса, указанного при назначении.
 
-#### 1.2.4 Tracking Projects, Next-Actions, & Tensions
+### 1.3 Обязанности исполнителя Роли
 
-You are responsible for capturing and tracking all Projects and Next-Actions for your Role in a database or similar tangible form, and for regularly reviewing and updating that database to maintain it as a trusted list of the Role’s active and potential work. You are also responsible for tracking any Tensions you identify for your Role, at least until you process them into desired Projects or Next-Actions, or otherwise resolve them.
+У исполнителя Роли есть следующие обязанности:
 
-#### 1.2.5 Directing Attention & Resources
+#### 1.3.1 Обработка напряжений
 
-Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization from among that subset.
+Вы отвечаете за сравнение актуального выражения Миссии и Обязательств вашей Роли с вашим видением их идеального потенциала, чтобы обнаружить их разницу (каждое такое различие является ***"Напряжением"***). Затем вы отвечаете за то, чтобы попытаться разрешить это напряжение.
 
-### 1.3 Authority to Act
+#### 1.3.2 Работа с Миссий и Обязательствами
 
-As a Partner assigned to a Role, you have the authority to execute any Next-Actions you reasonably believe are useful for enacting your Role’s Purpose or Accountabilities.
+Вы отвечаете за регулярную оценку того, как выполнять Миссию и Обязательства Роли, определяя:
 
-However, you cannot exert control or cause a material impact within a Domain owned by another Role or another sovereign entity, unless you have their permission. The authority granted in this paragraph is further limited by Section 2.1.3.
+- **А)** ***"Следующие Действия"*** — полезные действия, которые вы можете немедленно совершить в случае отсутствия конкурирующих приоритетов и
+- **Б)** ***"Проекты"*** — конкретные результаты, над которыми было бы полезно поработать в случае отсутствия конкурирующих приоритетов.
 
-### 1.4 Authority Over Domains
+#### 1.3.3 Декомпозиция Проектов
 
-As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role. You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.
+Вы отвечаете за регулярное определение Следующий Действи для каждого активного проекта вашей Роли.
 
-You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized. Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.
+#### 1.3.4 Отслеживание Проектов, Следующих Действий и Напряжений
 
-The authorities granted to you in this section may be further limited by constraints defined under Section 2.1.3.
+Вы отвечаете за то, чтобы оформлять и вести все Проекты и Следующие действия вашей Роли в письменных списках. Вы так же должны вести Напряжения, которые намереваетесь решить, как минимум до тех пор, пока они не будут преобразованы в Проекты и Следующие Действия. Вы так же отвечаете за регулярный пересмотр и обновление этих списков, чтобы они оставались надёжным источником потенаицльной работы для Вашей Роли.
 
+#### 1.3.5 Выполнение Следующих Действий
 
-## Article II: Circle Structure
+Когда у Вас есть время действовать в Роли, Вы отвечаете за оценку следующих действий, которые Вы можете предпринять, и выполнение тех из них, которые принесут наибольную пользу Организации.
 
-### 2.1 Circle Basics
+### 1.4 Круги
 
-A **_“Circle”_** is a Role that may further break itself down by defining its own contained Roles to achieve its Purpose, control its Domains, and enact its Accountabilities. The Roles a Circle defines are its **_“Defined Roles”_**, and anyone filling one of its Defined Roles is a **_“Circle Member”_** of that Circle.
+***"Круг"*** — это контейнер для организации Ролей и Политик, объединённых общей Миссией. Роли и Политики втутри круга составляют его действующее Законодательство.
 
-#### 2.1.1 Defining Roles & Policies
+#### 1.4.1 Декомпозиция Ролей
 
-Each Circle will use the **_“Governance Process”_** described in Article III of this Constitution to define or amend Roles within the Circle or Policies governing the Circle’s Domain. No one may define or amend a Circle’s Roles or Policies outside of its Governance Process, unless explicitly allowed by another rule of this Constitution. 
+Каждая Роль изнутри является Кругом. Внутренний круг Роли может содержать другие Роли и Политики, чтобы декомпозировать и организовывать работу этой Роли. Это не относится к Ролям, определённым в Приложении А, которые не могут быть декомпозированы.
 
-Further, each Circle may control its own functions and activities, as if a Domain of the Circle, for the purpose of defining Policies that limit the Circle’s Roles.
+Внутренний круг Роли считается ***"Под-Кругом"*** более широкого Круга, который содержит Роль, тогда как этот более широкий Круг — этот её ***"Супер-Круг"***
 
-#### 2.1.2 Roles May Impact Circle Domains
+#### 1.4.2 Делегирование Доменов
 
-When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or that the Circle is authorized to impact. However, you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle, and you may not fully control or regulate the Domain under the terms of Section 1.4.
+Когда Круг передаёт Домен одной из своих Ролей, каждый Лидер этой Роли может контролировать этот Домен в интересах Круга. Круг может передать своим Ролям только Домены, содержащиеся внутри имеющихся Доменов круга, или имеющие отношение только к его внутренним процессам.
 
-Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain. However, these restrictions do not apply if a Role or process holding the needed authority grants you permission to do so.
+Когда Роль контролирует Домен, она может в рамках своего Законоддательства создавать Политики, управляющие этим Доменом. Однако, Круг, который делегировал Домен, оставляет право переопределить свои собственные Политики, управляющие этим Доменом. В случае противоречия с Политиками Роли, Политика Круга считается главнее.
 
-#### 2.1.3 Delegation of Control
+Передача Домена Роли не делегирует каких-либо прав Круга на расход денег или имущества, если это не указано явно.
 
-When a Circle defines a Domain upon one of its Roles, the Circle’s authority to impact, control, and regulate that Domain is instead delegated to that Role and removed from the Circle.
+#### 1.4.3 Якорный Круг
 
-However, the Circle retains the right to amend or remove that Domain delegation, or to define or modify Policies that further grant or constrain the Role’s authority within the Domain.
+Самый широкий Круг, работающий над Миссикй всей Организации, называется ***"Якорный Круг"***. Якорный Круг обладает всеми полномочиями и Доменами, которе контролирует Организация, и у него нет Супер-Круга и нет Обязательств. Якорный Круг может изменить свою собственную Миссию посредством Политики.
 
-By default, any Domains delegated in this way exclude the authority to dispose of the Domain itself or any significant assets within the Domain, or to transfer those assets outside of the Circle, or to significantly limit any rights of the Circle to the Domain. A Circle may delegate these retained authorities as well, by explicitly granting the desired permissions in a Policy of the Circle.
+Управляющие Лица Организации могут определить первоначальную структуру и другое Законодательство в Якорном Круге при принятии этой Конституции.
 
-In any case, all Domain delegations are always limited to whatever authority the Circle itself had in the first place.
+#### 1.4.4 Связи с другими Кругами
 
-### 2.2 Circle Lead Link
+Роль может входить в другой Круг (быть с ним связана), если Политика этого другого Круга или его Супер-Круга разрешает такое участие.
 
-Each Circle has a **_“Lead Link Role”_** with the definition given in Appendix A and the further responsibilities and authorities defined in this Section.
+Если Роль связана с другим Кругом, эта роль так же рассматривается как предмет Законоддательства этого другого Круга. Такой Круг может добвлять к этой Роли, и позже менять то, что было добавлено. Однако, он не может удалить Роль, и другие Круги не могут изменять или удалять что-либо из добавленного этим Кругом. Полномочия добавлять или изменять задания этой Роли остаются у её исходного Круга. Круг, с которым Роль связана, не считается её Супер-Кругом, так же как и внутренний Круг Роли не считается его Под-Кругом.
 
-The person filling the Lead Link Role, while acting in that capacity, is referred to as the Circle’s **_“Lead Link”_**.
+Круг может убрать связь с Ролью через удаление Политики, которая разрешила такую связь, или любым другим способом, описанным в этой Политике. Роль может добровольно убрать связь с Кругом, кроме случаев, когда Политика её Супер-Круга, или действующая в его рамках, запрещает это делать. Когда связь разрывается, любое Законодательство, добавленное к Роли связанным Кругом, автоматически убирается.
 
-#### 2.2.1 Holds Undifferentiated Functions
+#### 1.4.5 Создание Кругов на стыке Ролей
 
-A Circle’s Lead Link inherits the Purpose and any Accountabilities on the Circle itself, and controls any Domains defined on the Circle, just as if the Circle were only a Role and the Lead Link filled that Role. However, this only applies to the extent that those Accountabilities and Domains have not been placed upon a Role within the Circle, or otherwise delegated.
+Две или более Роли могут создать новый Круг в любое время, чтобы управлять общей Миссией на стыке Ролей. Чтобы это сделать, такие Роли должны договориться о Миссии нового круга, которую позже можно изменить посредством Политики. Новый Круг изначально включает все основавшие его Роли, и политику, разрешающую эти связи. Круг, созданный таким образом, не имеет Супер-Круга и Обязательств. Он так же не имеет Доменов, кроме случаев, когда другой Круг делегирует ему контроль над Доменом посредством Политики. Если в таком Круге в какой-то момент не остаётся Ролей, он немедленно удаляется.
 
-Further, the Lead Link may not define Policies that limit the Circle’s Roles, except via the Governance Process of the Circle.
+### 1.5 Лидеры Кругов
 
-#### 2.2.2 Defines Priorities & Strategies
+Каждый Лидер Роли автоматически выполняет ***"Роль Лидера Круга"*** во внутреннем Круге этой Роли, и является ***"Лидером Круга"***, когда действует в этом контексте. Определение Роли Лидера Круга приведено в Приложении А. Круг, не имеющий Супер-Круга, не имеет Лидеров Круга, кроме случаев, когда Политика Круга говорит об обратном.
 
-A Circle’s Lead Link may define relative priorities for the Circle.
+#### 1.5.1 Определение Приоритетов и Стратегий
 
-In addition, the Lead Link may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
+Лидер Круга может устанавливать относительные приоритеты потенциальных усилий Круга, чтобы разрешить конфликты приоритетов между Ролями. Лидер Круга так же может определять ***"Стратегию"*** Круга, или множество стратегий, являющихся эвристическими правилами, определяющими приоритизацию.
 
-#### 2.2.3 Amending the Lead Link Role
+#### 1.5.2 Перенаправление внешних ссылок.
 
-A Circle may not add Accountabilities or other functions to its own Lead Link Role, or modify the Role’s Purpose, or remove the Role entirely. 
+В ситуации, когда Закнодательство, внешнее по отношению к Кругу, ссылается на Круг, или на Роль внутри Круга, Лидер Круга может изменять такие ссылки, чтобы они ссылались на другие Роли в Круге. Такое изменение не считается изменением Законодательства Круга.
 
-However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its Lead Link Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them. When this occurs, it automatically removes the relevant element or authority from the Lead Link Role, for as long as the delegation remains in place.
+#### 1.5.3 Уточнение Роли Лидера Круга
 
-### 2.3 Core Circle Members
+Круг не может ни изменить Миссию Роли Лидера Круга, ни удалить эту Роль.
 
-Some Circle Members are allowed to take part in a Circle’s Governance Process, and are thus **_“Core Circle Members”_** of the Circle.
+Круг может добавлять Обязательства и Домены к Роли Лидера Круга, и такие добавления так же автоматически применяются к Роли Лидера каждого Под-Круга, рекурсивно. Круг не может добавлять Обязательства или Домены только к своей собственной Роли Лидера Круга.
 
-The Core Circle Members are determined using the following rules:
+Круг может убрать любое Обязательство, Домен, полномочие или функцицю Роли Лидера Круга. Это можно делать передавая такие полномочия другим Ролям в Круге, или определяя альтернативные средства их реализации. Когда Круг таким образом передаёт эти полномочия, они автоматически убираются из Роли Лидера Круга, покуда такая передача действует.
 
-#### 2.3.1 Base Membership
 
-Unless a special appointment or exclusion is made under the terms of this section, the Core Circle Members of a Circle are:
+## Статья 2: Обязанности перед другими
 
-- **(a)** each Partner filling a Defined Role in the Circle;
-- **(b)** the Lead Link of the Circle, as defined in Section 2.2;
-- **(c)** each Rep Link elected to the Circle, as defined in Section 2.6.4;
-- **(d)** and each Cross Link into the Circle, as defined in Section 2.7.
+Как у Лидера Роли у Вас есть следующие обязательства по отношению к другим Лидерам Ролей Организации, действующим в интересах своих Ролей.
 
-#### 2.3.2 Exclusion for Multi-Filled Roles
+### 2.1 Обязанность обеспечения прозрачности
 
-If multiple Partners are assigned to the same Defined Role in a Circle, the Circle may enact a Policy that limits how many of them are Core Circle Members as a result of that Role assignment. However, the Policy must allow at least one of the Partners filling the Role to represent it as a Core Circle Member, and must specify how that representative will be determined.
+У Вас есть обязанность обеспечивать прозрачность в любой из следующих областей по запросу:
 
-In addition, any Partners representing the Role have the duty to consider and process Tensions conveyed by the excluded Partners, exactly as a Rep Link would were the Role a Sub-Circle, unless the Policy defines an alternate pathway for the excluded Partners to process Tensions related to that Role.
+- **А) Проекты и Следующие Действия:** Вы должны рассказать о Проектах и Следующих Действиях, которые вы отслеживаете в своей Роли.
+- **Б) Относительные Приоритеты:** Вы должны рассказать о своих суждениях об относительных приоритетах любого Проекта или Следующего Действия своей Роли, в сравнении с чем угодно другим, требующим внимания.
+- **В) Прогнозы:** Вы должны предоставить прогноз, когда вы ожидаете закончить любой из Проектов или Следующих Действий Вашей Роли. Грубой оценки достаточно, учитывая ваш текущий контекст и приоритеты. Детальный анализ или планирование не требуются, и такой прогноз ни в коей мере не является обещанием. Если обратное не указано в Законодательстве, то у вас нет обязанности отслеживать или давать обновления по данным ранее прогнозам.
+- **Г) Пункты Чеклиста:** Вы должны следить за выполнением любых повторяющихся действий, которые вы выполняете в своей Роли или как Партнёр организации. Если об этом попросили, Вы должны продолжать регулярно отчитываться о таких действиях, пока не поймёте, что в этом отпала необходимость.
+- **Д) Метрики:** Вы должны предоставлять данные метрик, которые вы собираете в своей Роли или как Партнёр Организации. Если об этом попросили, Вы должны продолжать регулярно отчитываться об этих метриках, пока не поймёте, что в этом отпала необходимость.
+- **Е) Информация о ходе работ:** Вы должны рассказать сводку о прогрессе, которого добились в своей Роли или по одному из Проектов вашей Роли с момента последнего такого отчёта. Если об этом попросили, вы должны продолжать регулярно делиться такими обновлениями, пока не поймёте, что в этом отпала необходимость.
 
-#### 2.3.3 Exclusion for Minor Allocations
+### 2.2 Обязанность обработки
 
-Sometimes, a Partner allocates only a very minor, nearly insignificant amount of attention to a Defined Role in a Circle. If the Circle's Lead Link reasonably believes this is the case, the Lead Link may exclude that Partner from serving as a Core Circle Member as a result of that Role assignment.
+У Вас есть обязанность оперативно обрабатывать сообщения и запросы, как описано ниже:
 
-If a Partner is so excluded, the Lead Link has a duty to consider and process Tensions conveyed by the excluded Partner, exactly as a Rep Link would were the Role a Sub-Circle, unless an alternate pathway is defined for the excluded Partner to process Tensions related to that Role.
+- **А) Запросы на обработку:** Другие могут просить вас поработать над Миссией, Обязательствами или Проектами вашей Роли. Вы должны определить и сообщить о Следующем Действии, которое этому поможет, если таковое на данный момент имеется. Если таких действий сейчас нет, Вы должны сообщить, чего вы ждёте, прежде чем сможете предпринять Следующее Действие. Если Следующее Действие или то, чего вы ждёте, являются частью какого-то более широкого результата в Вашей Роли, Вы должны так же зафиксировать и коммуниццировать это как Проект.
+- **Б) Запросы Проектов и Следующих Действий:** Другие могут просить вас взять в своей Роли определённое Следующее Действие или Проект. Вы должны принять их и следить за ними, если Вы считаете что над этим есть смысл работать в Вашей Роли, хотя бы в случае отсутствия конкурирующих приоритетов. Если Вы так не считаете, Вы должны или объяснить свою позиццию, или предложить что-то другое, что по-вашему поможет запрашивающему достичь своей цели.
+- **В) Запросы разрешения влиять на Домен:** Другие могут просить разрешения повлиять на Домен, подконтрольный Вашей Роли. Вы должны дать такое разрешение, если вы не видите причин, почему это может уменьшить Ваши возможности выполнять Миссию и Обязательства Вашей Роли. Если Вы видите такую причину, Вы должны объяснить её запрашивающему.
+- **Г) Запросы информации:** Другие могут задавать Вам вопросы или запрашивать информацию, связанную с вашей Ролью. Вы должны добросовестно отвечать, давая как минимум краткий ответ, или предоставляя любую информацию, имеющуюся у вас в готовом виде.
 
-#### 2.3.4 Special Appointments of Core Members
+### 2.3 Обязанность приоритезации
 
-The Lead Link of a Circle may specially appoint additional persons to serve as Core Circle Members of a Circle, beyond those required by this Constitution, and may further remove these special appointments at any time.
+Вы должны приоритизировать свои активности в соответствии со следующим:
 
-### 2.4 Role Assignment
+- **А) Обработка:** Вы должны в целом приоритизировать обработку входящих сообщений от других Ролей выше выполнения ваших Следующих Действий. Однако, Вы можете откладывать обработку сообщений, чтобы обрабатывать их порциями в удобное время, если это ещё будет своевременно. Обработка включает выполнение любых обязанностей из этой Статьи, и последующее информирование о том, как запрос был обработан. Обработка не включает выполнение Проектов и Следующих Действий, которые вы зафиксировали.
+- **Б) Встречи:** Вы должны приоритизировать участие в любых встречах, описанных в этой Конституции, выше, чем выполнение своих Следующих Действий, но только если такая приоритизация явным образом запрошена относительно конкретной встречи. Вы по прежнему можете отклонить такой запрос, если на это время у вас уже есть другие планы.
+- **В) Приоритеты Круга:** Когда Вы выбираете, над чем работать дальше, вы должны принять во внимание все официальные Стратегии и относительные приоритеты Круга, в котором находится Ваша Роль, и всех его Супер-Кругов. Официальные приоритеты устанавливаются Лидером Круга, или любой другой Ролью или процессом, которым было передано полномочие разрешать конфликты приоритетов и определять Стратегии Круга. Вы должны относиться к таким официальным приоритетам как более выжным для Организации, чем ваши собственные приоритеты или ваше понимание приоритетов Организации.
+- **Г) Дедлайны:** Если Законодательство или официальная Стратегия или приоритизация Круга включает дедлайн, определяющий, когда что-то должно быть готово, вы не должны непременно выполнить этот дедлайт. Вместо этого, вы должны интерпретировать это как официальную приоритизацию любых действий, необходимых для выполнения этого дедлайна, над любыми другими действиями для этого Круга, и действовать соответственно. Лидер Круга или другая Роль или процесс с полномочиями разрешать конфликты приоритетов между Ролями, может переопределить такую приоритезацию.
 
-The Lead Link of a Circle may assign people to fill Defined Roles in the Circle, unless that authority has been limited or delegated.
 
-#### 2.4.1 Unfilled Roles
+## Статья 3: Тактические Встречи
 
-Whenever a Defined Role in a Circle is unfilled, the Circle’s Lead Link is considered to be filling the Role.
+В интересах свей Роли, любой Партнёр может созвать Тактическую Встречу, чтобы вовлечь другие роли в выполнение их обязанностей.
 
-#### 2.4.2 Assigning Roles to Multiple People
+### 3.1 Участие
 
-A Lead Link may assign multiple people to the same Defined Role, as long as that will not decrease the clarity of who should enact the Accountabilities and authorities of the Role in common situations.
+Партнёр, созывающий Тактическую Встречу, должен назвать Роли, нужные для этой встречи. Все Партнёры, являющиеся Лидерами этих Ролей, приглашены к участию, если организатор не уточнил, что пришлашение включает только некоторых Лидеров этих Ролей.
 
-As one way of maintaining that clarity, a Lead Link may specify a “Focus” along with each assignment, which is an area or context for that person to focus within while executing in the Role.
+### 3.2 Процесс Встречи
 
-When a Role assignment includes a Focus, the Purpose, Accountabilities, and Domains defined for the Role apply just within the specified Focus for that particular person.
+Партнёр, организующий Тактическую Встречу, должен найти кого-то, кто будет её вести. Если нет Политики, которая это меняла бы, ведущий должен использовать следующий процесс:
 
-#### 2.4.3 Resignation from Roles
+- **А) Раунд Входа:** Каждый участник по очереди делится своим состоянием или любым другим открывающим комментарием. Отвечать запрещено.
+- **Б) Обзор Чек-Листов:** Каждый участник подтверждает выполнение любых повторяющихся действий, по которым они регулярно отчитываются в своей Роли на таких встречах.
+- **В) Обзор Метрик:** Каждый участник делится данными метрик, по которым они регулярно отчитываются в своей Роли на таких встречах.
+- **Г) Информация о ходе работ:** Каждый участник рассказывает о прогрессе в любом Проекте или другой инициативе, по которым они регулярно отчитываются в своей Роли на таких встречах. Участники могут только рассказывать о прогрессе с момента последнего такого отчёта, а не рассказывать полный статус любой работы.
+- **Д) Формирование повестки:** Участники формируют повестку из пунктов для обработки в рамках встречи. Каждый участник может добавить в повестку столько пунктов, сколько хочет, давая каждому из них краткое название, при этом объяснять или обсуждать не разрешается. Участники могут добавлять пункты в повестку и после этого шага, между обработкой существующих пунктов.
+- **Е) Обработка Напряжений:** Чтобы обработать очередной пункт повестки, его владелец может делать запросы другим участникам, или в качестве Партнёра на общих основаниях, или к Роли, которую участникк на этой встрече представляет. Однакко, запросы к Роли могут быть сделаны только в интересах той Роли, которую на встрече представляет запрашивающий. Ведущий управляет временем, отведённым на какждый пункт повестки, чтобы уделить время всей повестке, и может остановить обработку любого пункта, когда время на него истекло.
+- **Ж) Раунд Выхода:** Каждый участник по очереди может поделиться закрывающими соображениями оо встрече. Отвечать запрещено.
 
-When you fill a Role, you may resign from the Role at any time, unless you’ve agreed otherwise, by giving notice to whoever controls assignments to that Role – typically, the Circle’s Lead Link.
+Политика Круга может указать альтернативный процесс или изменить процесс по умолчанию для Тактических Встреч, созванных одной из Ролей Круга.
 
-### 2.5 Elected Roles
+### 3.3 Замещение отсутствующих участников
 
-Each Circle includes a **_“Facilitator Role”_**, a **_“Secretary Role”_**, and a **_“Rep Link Role”_** with the definitions given in Appendix A. These are the Circle’s **_“Elected Roles”_**, and the person filling each becomes the Circle’s **_“Facilitator”_**, **_“Secretary”_**, or **_“Rep Link”_** when acting in the capacity of the Elected Role.
+Если Роль, существующая в Круге, или приглашенная на Тактическую Встречу на этой встрече по любой причине отсутствует, Лидеер Супер-Круга этой Роли может представлять эту Роль в рамках этой встречи.
 
-#### 2.5.1 Elections & Eligibility
 
-The Facilitator of each Circle will facilitate regular elections to elect a Core Circle Member of the Circle into each of its Elected Roles, using the process and rules defined in Article III.
+## Статья 4: Изменения в распределении власти (Power Shift)
 
-All Core Circle Members are eligible for election and each may hold multiple Elected Roles, except for the Lead Link of a Circle, who may not be elected as its Facilitator or Rep Link.
+Принимая эту Конституцию, Управляющие Лица Организации передают свою власть управлять Организацией правилам и процессам, описанным здесь, за исключением полномочий, которые Управляющие Лица Организации не могут делегировать. Как Партнёр, Вы можете опираться на полномочия, данные этой Конституцией, в полной мере, в которой Управляющие Лица Организации пользовались такими полномочиями до принятия Конституции.
 
-#### 2.5.2 Election Terms & Revisiting
+### 4.1 Полномочия Лидеров Ролей
 
-During the election process, the Facilitator will specify a term for each election. After a term expires, the Secretary is responsible for promptly triggering a new election for that Elected Role. However, even before a term has expired, any Core Circle Member may trigger a new election using the process defined in Article III.
+Как Лидер Роли, у Вас есть все полномочия, чтобы совершить любое действие, или принять любое решение, в целях выполнения Миссии и Обязательств Вашей Роли, покуда вы не нарушаете правила, описанные в этой Конституции.
 
-#### 2.5.3 Amending Elected Roles
+Когда приоритизируете и выбираете среди потенциальных действий, у вас есть полномочия опираться на свои собственные суждения об относительной ценности каждого действия для Организации.
 
-A Circle may add Accountabilities or Domains to its Elected Roles, as well as amend or remove those additions.
+Вы так же можете использовать свои суждения для интерпретации этой Конституции и всего, что ей подчиняется. Вы можете интерпретировать, как она применяется в любой конкретной ситуации, с которой Вы сталкиваетесь, и действовать на основе своей интерпретации. Однако, вы обязаны интерпретировать любое Законодательство в контексте Миссии и Обязательств Круга, содержащего его. Вы не можете использовать интерпретации, конфликтующие с этим контекстом.
 
-However, a Circle may only add to its own Rep Link Role and not to a Rep Link Role appointed to the Circle by a Sub-Circle.
+#### 4.1.1 Не нарушайте Политики
 
-Further, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to an Elected Role by this Constitution, nor remove an Elected Role entirely.
+Когда действуете в Роли, вы не можете нарушать любые Политики Роли или Круга, содержащего Роль.
 
-#### 2.5.4 Surrogates for Elected Roles
+#### 4.1.2 Попросите разрешения, прежде чем влиять на Домен
 
-A surrogate may temporarily fill an Elected Role when one is unfilled, or when the person who normally fills the Role is unavailable for a Circle meeting or feels unable or unwilling to enact the Role’s duties.
+В интересах вашей Роли, у Вас есть полномочия влиять и контролировать Домены своей Роли.
 
-In any given instance where a surrogate is needed, the surrogate is, in this order of precedence:
+Вы так же можете влиять на Домены, принадлежащие Кругу, содержащему Вашу Роль, которые не были делегированы, и так же на любой другой Домен, на который может влиять этот Круг. Но если вы считаете, что последствия ваших действий будет трудно или дорого изменить, Вы должны попросить разрешения.
 
-- **(a)** someone explicitly specified by the person to be replaced; or
-- **(b)** the acting Facilitator of the Circle; or
-- **(c)** the acting Secretary of the Circle; or
-- **(d)** the Lead Link of the Circle; or
-- **(e)** the first Core Circle Member of the Circle to declare he or she is acting as the surrogate.
+Вы не можете осуществлять контроль или воздействовать на Домен, делегированный Роли или Кругу, который не содержит Вашу Роль, если не попросите разрешения. Вы так же не можете без разрешения воздействовать на любой другой Домен, контролируемый любой другой суверенной единицей.
 
-### 2.6 Sub-Circles
+Когда Вам нужно разрешение воздействовать на Домен, Вы можете получить его у любого, кто этот Домен контролирует. Вы так же можете получить разрешение анонсировав, что собираетесь предпринять определённое действие, и пригласив любого с релевантным Доменов внести свои возражения. Затем вы должны выждать разумное время, чтобы дать возможность ответить. Если за это время никто не внес возражений, у Вас есть разрешение влиять на Домен Роли или Организации, которой Вы анонсировали своё намерение. Вы можете предполагать, что письменный анонс прочитали все, кто обычно читает сообщения в том канале, где вы его опубликовали. Любое разрежение, полученное таким образом, применимо только к тому действию, которое вы анонсировали. Посредством Политики можно изменить или ограничить этот процесс.
 
-A Circle may expand its Defined Roles into full Circles, via its Governance Process. When it does, the new Circle becomes its **_“Sub-Circle”_**, while it becomes the **_“Super-Circle”_** of that new Sub-Circle.
+#### 4.1.3 Получите разрешение, прежде чем расходовать средства
 
-#### 2.6.1 Modifying Sub-Circles
+Когда выполняете свою Роль, вы не можете расходовать деньги или другое имущество, если сначала не получите разрешение это сделать. Такое разрешение может дать Круг или Роль, уже обладающие контролем над этими ресурсами в целях их расходования. Действие считается расходованием, если с ним связана потеря существенного имущества Круга, или если оно существенно ограничивает одно из прав Круга.
 
-A Circle may modify the Purpose, Domain, or Accountabilities on a Sub-Circle. 
+Чтобы получить разрешение на расходование, Вы должны анонсировать своё намерение в письменном виде Роли или Кругу, у которых Вы просите разрешения. Вы должны опубликовать этот анонс там, где все Партнёры, выполняющие роли внутри этого Круга, скорее всего его увидят. Ваше заявление должно включать причину расходования, и Роль, в которой оно произойдёт. Вы должны выждать разумное время, чтобы дать возможность оценить ситуацию и ответить. Любой получатель Вашего анонса может эскалировать это на дальнейшую оценку, и в этом случае Вы не можете продолжитть свои действия. Однако, Лидер Роли или Лидер соответствующего Круга может отмениь эскалацию, так же как и человек, который её запустил. Когда разумное время прошло и эскалаций не было, Ваша роль получает контроль над обозначенными ресурсами. Вы можете расходовать их в заявленных целях, или дать возможность другим делать то же. Роль или Круг, давшие такое разрешение, в свою очередь, теряют контроль над этим ресурсом. Однако, Лидер соответствующей Роли или Круга могут отменить авторизацию в любой момент.
 
-A Circle may also move its own Defined Roles or Policies into a Sub-Circle, or move any from within the Sub-Circle into itself.
+Посредством Политики можно изменить этот процесс любым образом, или прямо разрешить Ролям контролировать расходы ресурсов Круга.
 
-Any of these modifications may only be done via the Governance Process of the Circle.
+### 4.2 Личная инициатива
 
-Beyond these allowed changes, a Circle may not modify any Defined Roles or Policies held within a Sub-Circle.
+Как Партнёр Организации, в некоторых случаях вы можете предпринимать ***"Личную Иницицативу"***, действую за рамками полномочий своих Ролей, или нарушая правила этой Конституции.
 
-#### 2.6.2 Removing Sub-Circles
+#### 4.2.1 Допустимые ситуации
 
-Through its Governance Process, a Circle may remove a Sub-Circle. This can be done by removing the Sub-Circle and everything within entirely, or by selectively retaining certain elements of the Sub-Circle within the Circle. A Sub-Circle may also be removed by collapsing it from a Circle back into just a Role.
+Вы можете предпринимать Личную Инициативу только когда все следующие условия выполнены:
 
-#### 2.6.3 Lead Link to Sub-Circle
+- **А)** Вы добросовестно действуете в интересах Миссии или выражаете Обязательства некоторой Роли внутри Организации.
+- **Б)** Вы считаете, что Ваши действия снимут или предотвратят большее Напряжение для Организации, чем вероятно создадут.
+- **В)** Ваши действия не создают для Организации расходов средств сверх тех, что Вы авторизованы потратить.
+- **Г)** Если Ваши действия нарушат Политику или Домен, Вы считаете, что в случае промедления в связи с получением разрешения или изменением Законодательства, будет потеряно много пользы.
 
-A Circle’s Lead Link may assign someone to fill the Lead Link Role for each Sub-Circle, using the same rules that apply when the Lead Link assigns into any other Defined Role of the Circle.
+#### 4.2.2 Коммуникация и восстановление
 
-#### 2.6.4 Rep Link to Super-Circle
+После совершения Личной Инициативы, Вы должны объяснить ваши действия Лидерам Ролей, на которых они могли существенно повлиять. По запросу любого Лидера Роли, Вы должны предпринять последующие действия, чтобы помочь снять Напряжения, созданные вашей Личной Инициативой. Вы так же должны воздерживаться от повторения аналогичной Личной Инициктивы по запросу любого Лидера Роли.
 
-Each Circle normally elects a Rep Link to its Super-Circle. However, this election is not required when a Circle lacks any Core Circle Members other than those serving as Lead Link and Cross Links into the Circle. In this case, even if the election is conducted, the elected Rep Link does not become a Core Circle Member of the Super-Circle.
+Вы должны приоритизировать коммуникацию и восстановление, описавнные в этом разделе, над своей обычной работой. Однако, Лидер Круга, содержащего все Роли, на которых повлияли Ваши действия, может изменить этот приоритет по умолчанию.
 
-### 2.7 Cross Linking
+### 4.3 Навигация по унаследованной системе власти
 
-A Circle may create a **_“Cross Link Policy”_** to invite any entity or group to participate within another Circle’s Governance Process and operations. The entity or group that is invited to participate is the **_“Linked Entity”_**, and it may be external to the Organization, or it may be another Role or Circle within the Organization. The Circle that will receive this link is the **_“Target Circle”_**, and it must be the Circle creating the Policy, or one of its Sub-Circles.
+Любые существующие политики и системы, которые действовали в Организации до принятия Конституции, продолжают действовать в полной мере после её принятия, даже если они включают полномочия или ограничения, которые не были созданы в рамках процессов, описанных в Конституции. Однако, такие унаследованные политики и системы не могут расширяться или меняться, и теряют свою силу, как только в рамках процессов этой Конституции будет создано что-либо, противоречещее или замещающее их.
 
-Once a Cross Link Policy is adopted, the Linked Entity may assign a representative to participate in the Target Circle under the terms of this section, unless alternate terms are defined in the Policy.
+Более того, все Ваши обязанностти и ограничения как Партнёра Организации исходят из этой Кнституции, результатов её процессов, и юридических обязанностей перед Организацией, пока вы действуете в её интересах. Неявные ожидания или ограничения не имеют силы, как и любые предписания, созданные до принятия Конституции в рамках старой структуры власти в Организации.
 
-#### 2.7.1 Cross Link Role
 
-If the Linked Entity is a Role, then that Role may participate in the Target Circle as described below. It becomes the **_“Cross Link Role”_**, with the person filling it becoming the **_“Cross Link”_**.
+## Статья 5: Законодательство
 
-If the Linked Entity is a Circle or a group, then a new special-purpose Cross Link Role is automatically created instead, and resides within both the Linked Entity and the Target Circle, much like a Rep Link. In this case, the Cross Link Role has the same Purpose and Accountabilities as a Rep Link, but with the “Circle” referenced in the Rep Link Role description instead meaning the Linked Entity, and the “Super-Circle” instead meaning the Target Circle.
+Для изменения Законодательства Круга необходимо использовать ***"Законодательный Процесс"***, описанный в этой статье.
 
-If the Linked Entity lacks both a clear Purpose and any clear Accountabilities, then the Cross Link Policy must further clarify what the Cross Link Role will represent within the Target Circle.
+### 5.1 Участники законодательного процесса
 
-#### 2.7.2 Cross Link Assignment
+В каждом Круге есть группа Членов Круга, которые могут представлять свои Роли в Занодательном Процессе.
 
-If the Linked Entity is a Circle or group, it may assign someone to fill the Cross Link Role using whatever process it already has for assigning people to fill Defined Roles or similar work functions.
+Члены Круга — это Партнёры, выполняющие Роль Лидера Круга, а так же Партнёры, являющиеся Лидерами Ролей в Круге. Если у Роли есть несколько Лидеров, Круг может принять Политику, ограничивающую количество представителей этой Роли в качестве Членов Круга в Законодательном Процессе.
 
-If a Linked Entity represents a group with no single locus of authority to do that assignment, then the Target Circle may instead assign someone to the Cross Link Role, unless otherwise specified in the Cross Link Policy.
+#### 5.1.1 Представители Кругов
 
-In all cases, only one person may be assigned to each Cross Link Role, unless allowed by the Cross Link Policy. 
+Как Член Круга, вы можете в любой момент запросить выборы, чтобы избрать или сменить кого-то в Роли ***"Представителя Круга"***, чтобы помогать представлять этот Круг в более широком Круге, содержащем его. Выбранный Представитель Круга выполняет свою Роль, как определено в приложении А.
 
-Whenever a Cross Link Role is unfilled, it is considered non-existent and has no default assignment or effect.
+Для выбора Представителя Круга, Круг обязан использовать Интегративный Процесс Выборов, определённый тут, если Политикой не введён альтернативный процесс. Только Члены Круга могут избираться на Роль Представителя Круга. Исполнители Роли Лидера Круга не могут одновременно быть Представителями Круга. В любой момент времени Представителем Круга может быть только один человек, кроме случаев, когда Политика Круга уровнем выше это разрешает.
 
-#### 2.7.3 Cross Link Authority
+Выбранный Представитель Круга становится Членом любого Круга, содержащего внешнюю Роль этого Круга, получая возможность представлять эту Роль как Лидер Роли. Объемлющий круг может посредством Политики ограничить или исключить возможность таких Представителей Круга становиться Членами Круга, но только если у его Ролей есть другой механизм представления своих интересов в этом Круге.
 
-A Cross Link becomes a Core Circle Member of the Target Circle, and may use the authorities of a Core Circle Member to process Tensions that relate to the Target Circle limiting the Linked Entity.
+Круг может добавлять Обязательства и Домены к Роли Представителя Круга, а так же менять и убирать эти добавления. Никакой Круг не может изменить или убрать Миссию или Обязательства Роли Представителя Круга, или удалить саму роль.
 
-However, beyond removing limitations, a Cross Link may not use the Target Circle to build more capacities for the Linked Entity, unless those capacities would also help the Target Circle express its own Purpose or Accountabilities.
+#### 5.1.2 Фасилитатор и секретарь
 
-#### 2.7.4 Additions to a Cross Link Role
+Любой Круг, в котором более одного Члена, включает Роли ***"Фасилитатора"*** и ***"Секретаря"***, определённые в Приложении А. Люди, действующие в этих Ролях, становятся, соответственно, ***"Фасилитатором"*** и ***"Секретарём"*** Круга. Любой Член Круга может в любое время запросить выборы, чтобы выбрать или сменить Фасилитатора или Секретаря Круга.
 
-A Linked Entity may amend its Cross Link Role through its own Governance Process.
+Для выборов Секретаря или Фасилитатора, Круг обязан применять Интегративный Процесс Выборов, описанный здесь. Никакая Роль или Политика не могут назначать или снимать людей с этих Ролей любым другим способом, или менять процесс выборов. Обычно, единственные кандидаты, которые могут участвовать в таких выборах — это Члены Круга. Однако, Политика данного Круга или его Супер-Круга может расширять или ограничивать группу потенциальных кандидатов.
 
-A Target Circle may add Domains or Accountabilities to a Cross Link Role through its own Governance Process, and may later amend or remove any it added.
+Круг может добавлять Обязательства или Домены Ролям Фасилитатора или Секретаря, а так же менять или убирать эти добавления. Никакой Круг не может изменить или убрать Миссию, Домены или Обязательства этих Ролей, или удалить сами Роли.
 
-#### 2.7.5 Boundaries and Delegation
+### 5.2 Границы Законодательства
 
-The Linked Entity invited into a Target Circle may be a Role contained by another Circle. In that case, the other Circle may change the Linked Entity to another one of its Roles that it believes is more appropriate, or delegate the selection of the Linked Entity to one of its Sub-Circles.
+В рамках Законодательного Процесса Члены Круга могут:
 
-The Target Circle may also delegate the requirement to receive a link to one of its own Sub-Circles, in which case that Sub-Circle will then become the Target Circle for the link.
+- **А)** создавать, изменять или удалять Роли Круга;
+- **Б)** создавать, изменять или удалять Политики Круга;
+- **В)** перемещать Роли Круга внутрь Под-Кругов или далее в их Под-Круги на любой уровень вложенности, но только если это соответствует Миссии или Обязательствам этих Кругов;
+- **Г)** перемещать Роли или Политики изнутри Под-Кругов или их Под-Кругов с любого уровня вложенности в сам этот Круг, но только если эти Роли или Политики более не соответствуют Миссии и Обязательствам этих Под-Кругов;
+- **Д)** проводить выборы для любой из выборных Ролей Круга.
 
-In either case, any delegation must be done via a Policy of the Circle doing the delegating. Further, any change or delegation must still align with any constraints or guidelines specified in the Cross Link Policy that extended the invitation to link in the first place.
+Любые другие решения не могут быть результатом Законодательного Процесса Круга.
 
-## Article III: Governance Process
+#### 5.2.1 Границы Политик
 
-### 3.1 Scope of Governance
+Политика может действовать только так, как указано ниже:
 
-The Governance Process of a Circle has the power to:
+- **А)** ограничивать полномочия одной или более Ролей в Круге;
+- **Б)** передавать полномочия Круга или Лидера Круга одной или нескольким Ролям;
+- **В)** передавать людям или Ролям полномочия контроллировать или влиять на Домены Круга, или ограничивать как они могут это делать, если у них ранее уже были такие полномочия;
+- **Г)** менять правила или процессы этой Конституции, если такие изменения разрешены явным образом.
 
-- **(a)** define, amend, or remove the Circle’s Roles and Sub-Circles; and
-- **(b)** define, amend, or remove the Circle’s Policies; and
-- **(c)** hold elections for the Circle’s Elected Roles.
+Политика, которая даёт или ограничивает полномочия, так же действует и во всех Под-Кругах на всех уровнях вложенности, если не указано обратное. Политика, которая меняет правила или процессы этой Конституции, действует только непосредственно в Круге, в котором создана, или, если об этом сказано явным образом, то и во всех Под-Кругах на всех уровнях вложенности. В этом случае Под-Круг может перебить такую Политику своей собственной, если только это не запрещается явным образом исходной Политикой.
 
-At any given time, the then-current results of a Circle’s Governance Process define its acting **_“Governance”_**.
+#### 5.2.2 Удаление некорректного Законодательства
 
-Only those outputs listed in this section are valid Governance for a circle; no one may capture other outputs within the Circle’s Governance records.
+Как Партнёр, вы можете попросить Секретаря Круга проверить корректность любого Законодательства в рамках Круга или Под-Кругов, на любом уровне вложенности. Если Секретарь сочтёт, что оно нарушает правила этой Конституции, Секретарь обязан удалить такое Законодательство из записей Круга. После совершения этого, Секретарь обязан немедленно сообщить всем Членам соответствующего Круга, что и почему он удалил.
 
-### 3.2 Changing Governance
+### 5.3 Законодательный Процесс
 
-Any Core Circle Member of a Circle may propose changing its Governance, thus making a **_“Proposal”_** as a **_“Proposer”_**.
+Как Член Круга, вы можете инициировать Законодательный Процесс, предложив изменение Законодательства. Чтобы это сделать, ***"Предлагающий"*** должен сначала опубликовать ***"Предложение"*** другим Членам Круга в письменной форме, используя канал коммуникации, одобренный Секретарём. Другие Члены Круга могут задавать уточняющие вопросы, делиться реакциями и сомнениями относительно Предложения. Любое сомнение является ***"Возражением"***, если соответствует перечисленным тут критериям, а человек, озвучивший это сомнение — ***"Возражающий"***.
 
-Before a Proposal is adopted, all Core Circle Members must have the opportunity to raise Tensions about adopting the Proposal. Each Tension so raised is considered an **_“Objection”_** if it meets the criteria defined in this section, and the person who raised it becomes the **_“Objector”_**.
+Когда каждый Член Круга подтвердил, что у него нет Возражений на Предложение, оно вступает в силу и меняет Законодательство Круга. Если появились возражения, Предлагающий и каждый Возражающий должны найти способ снять Возражения, прежде чем предложение вступит в силу. После таких усилий, все Члены Круга должны получить ещё одну возможность внести Возражения. Круг может принять Политику, определяющую ограничения по времени на внесение Возражений, после которого предполагается, что у тех кто не ответил нет Возражений.
 
-Proposals are considered adopted and amend the Governance of the Circle only if no Objections are so raised. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle may adopt the Proposal, after which all Core Circle Members must have another opportunity to raise further Objections before the Proposal is adopted.
+Внося Предложение или Возражение, Член Круга может действовать только в интересах Ролей в Круге, которые они или исполняют в качестве Лидера Роли, или представляют в качестве Представителя Круга. Член Круга так же может представлять Роль, от Лидера которой получил разрешение её представлять, до тех пор, пока не истечёт срок действия такого разрешения, или оно не будет отозвано.
 
-#### 3.2.1 Making Proposals
+#### 5.3.1 Критерии действительности предложений
 
-Any Core Circle Member may make a Proposal within a **_“Governance Meeting”_** of the Circle called under the terms of Section 3.3.
+Чтобы Предложение считалось действительным, Предлагающий должен быть в состоянии выполнить всё из перечисленного:
 
-Alternatively, a Core Circle Member may distribute a Proposal to all other Core Circle Members asynchronously, outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s Secretary. When this happens, the Facilitator may either apply the same process and rules used within a Governance Meeting, or may allow each Core Circle Member to directly declare whether or not he or she has Objections to integrate. Further, at any point before an asynchronous Proposal is adopted, the Facilitator or any Core Circle Member may stop the asynchronous processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s Secretary.
+- **А)** описать Напряжениме, которое решится данным Предложением лдя одной Ролей Предлагающего; и
+- **Б)** дать пример реальной ситуации из прошлого или настоящего, демонстрирующий это Напряжение; и
+- **В)** дать разумное объяснение, как Предложение поможет уменьшить в этом примере Напряжение.
 
-A Circle may adopt Policies to further constrain when or how Proposals may be made or processed outside of a Governance Meeting. However, no Policy may limit the right to stop asynchronous processing by escalating to a Governance Meeting. A Circle may also use a Policy to create a time limit for responding to asynchronous Proposals, upon which any asynchronous Proposal is automatically adopted if no Objections or escalation requests are raised.
+Если в какой-то момент Фасилитатору становится ясно, что любой из этих критериев не выполнен, Фасилитатор должен снять предложение.
 
-#### 3.2.2 Criteria for Valid Proposals
+#### 5.3.2 Критерии действительности Возражений
 
-Some Proposals are disallowed within a Circle’s Governance Process, and the Facilitator may discard these before they are fully processed.
+Сомнение относительно принятия Предложения считается Возражением только в том случае, если Возражающий может привести разумные аргументы, объясняющие, почему его возражение соответствует **всем** перечисленным ниже критериям:
 
-To be valid for processing, a Proposal must resolve or reduce a Tension sensed by the Proposer. In addition, a Proposal must normally help the Proposer better express the Purpose or an Accountability of one of the Proposer’s Roles in the Circle. However, a Proposal may alternatively help another Circle Member better express one of that person’s Roles in the Circle, but only if that person has granted the Proposer permission to represent that Role.
+- **А)** Предложение ограничит возомжности Круга для выполния своей Миссии или Обязательств.
+- **Б)** Предложение ограничило бы возможности Возражающего для выполнения Миссии и Обязательств Роли, которую Возражающий представляет в Круге, даже если бы Возражающий не выполнял никаких других Ролей в Организации.
+- **В)** Обозначенная проблема не существует сейчас, до введения Предложения. То есть, с введением Предложения возникнет новое напряжение.
+- **Г)** Предложение неизбежно произведёт этот эффект, или, в случае если это произойдёт, у Круга не будет адекватной возможности адаптироваться, прежде чем прозойдёт существенный вред.
 
-Finally, a Proposal is always valid regardless of the preceding criteria if it is made solely to help evolve the Circle’s Governance to more clearly reflect activity that is already happening, or to trigger a new election for any Elected Role.
+Однако, вне зависимости от выполнения этих критериев, сомнение всегда считается Возражением, если его принятие нарушит правила этой Конституции.
 
-#### 3.2.3 Testing Proposals
+#### 5.3.3 Тестирование Возражений
 
-The Facilitator may test the validity of a Proposal by asking the Proposer questions. For a Proposal to survive the test, the Proposer must be able to describe the Tension, and give an example of an actual past or present situation in which the Proposal would have reduced that Tension and helped the Circle in one of the ways allowed by the prior section. The Facilitator must discard the Proposal if the Facilitator deems the Proposer has failed to meet this threshold.
+Фасилитатор может проверять, является ли сомнение Возражением, спрашивая Возражающего, соответствует ли сомнение указанным критериям, и как именно. Оценивая ответы, Фасилитатор может только судить о том, представил ли Возражающий аргументы на каждый критерий. Фасилитатор не может судить о правильности аргументов или их важности.
 
-However, when assessing the validity of a Proposal, the Facilitator may only judge whether the Proposer presented the required example and explanations, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of their accuracy, nor on whether the Proposal would adequately address the Tension.
+Когда Возражающий заявляет, что Предложение нарушит Конституцию, Фасилитатор может попросить Секретаря интерпретировать, так ли это. Если Секретарь сочтёт, что это не так, Фасилитатор может снять это Возражение.
 
-#### 3.2.4 Criteria for Valid Objections
+#### 5.3.4 Правила интеграции
 
-Some Tensions do not count as Objections, and may be ignored during the processing of a Proposal. A Tension only counts as an Objection if it meets **all** of the criteria defined in (a) through (d) below, or the special criteria defined in (e):
+В процецссе работы по снятию Возражения, действуют следующие правила:
 
-- **(a)** If the Tension were unaddressed, the capacity of the Circle to express its Purpose or enact its Accountabilities would degrade. Thus, the Tension is not just triggered by a better idea or a potential for further improvement, but because the Proposal would actually move the Circle backwards in its current capacity. For the purpose of this criteria, decreasing clarity counts as degrading capacity, although merely failing to improve clarity does not.
-- **(b)** The Tension does not already exist for the Circle even in the absence of the Proposal. Thus, the Tension would be created specifically by adopting the Proposal, and would not exist were the Proposal withdrawn.
-- **(c)** The Tension is triggered just by presently known facts or events, without regard to a prediction of what might happen in the future. However, relying on predictions is allowed when no opportunity to adequately sense and respond is likely to exist in the future before significant impact could result.
-- **(d)** The Tension limits the Objector's capacity to express the Purpose or an Accountability of one of the Objector’s Roles in the Circle; or, if it limits another Role, the Objector has permission to represent that Role from a Circle Member who normally fills the Role.
+- **А)** Фасилитатор обязан по запросу любого Члена Круга проверить Возражение на действительность. Если оказывается, что оно не удовлетворяет нужным критериям, Фасилитатор обязан снять его.
+- **Б)** Возражающий обязан пытаться найти изменение к Предложению, которое снимает его Возражение, и по прежнему снимает изначальное Напряжение Предлагающего. Если Фасилитатор считает, что Возражающий не прикладывает искренних усилий это сделать, Фасилитатор должен объявить Возражение отвергнутым и снять его.
+- **В)** Любой Член Круга может задавать Предлагающему уточняющие вопросы о Напряжении, стоящем за Предложением, или о примерах ситуаций, которые привёл Предлагающий для иллюстрации Напряжения. Если Фасилитатор считает, что Предлагающий не отвечает добросовестно, Фасилитатор обязан снять Предложение.
+- **Г)** Возражающий может предлагать изменения к Предложению, и приводить разумные аргументы, почему оно должно снять изначальное Напряжение. Затем, по запросу Возражающего, Предлагающий должен представить разумные аргументы, почему изменённое Предложение не снимет изначальное Напряжение, хотя бы в одном примере, которыми Предлагающий иллюстрирует своё Напряжение. Если необходимо, Предлагающий может добавлять примеры ситуаций, показывающих, почему измененное Предложение не снимет Напряжение. Если Фасилитатор считает, что Предлагающий не может или не хочет этого делать, он обязан снять Предложение.
 
-However, regardless of the above criteria, a Tension about adopting a Proposal always counts as an Objection if:
+#### 5.3.5 Интегративный процесс выборов
 
-- **(e)** Processing or adopting the Proposal breaks the rules defined in this Constitution, or prompts the Circle or its members to act outside of the authority granted under this Constitution. For example, Next-Actions, Projects, and specific operational decisions are typically not valid Governance outputs per the terms of Section 3.1, so anyone involved could raise an Objection that a Proposal to enact these outputs would violate the rules of the Constitution.
+Любой Член Круга может инициировать Законодательный Процесс Круга объявив выборы Представителя Круга, Фасилитатора или Секретаря. Действующий Фасилитатор должен провести ***"Интегративный Процесс Выборов"***, как описано ниже:
 
-#### 3.2.5 Testing Objections
+- **А) Описание Роли:**  Сначала, Фасилитатор проясняет, о какой Роли идёт речь, и устанавливает срок, на который происходит избрание. Фасилитатор может так же представить другую информацию, релевантную для этих выборов. Во время этого и следующего шага, никто не может комментировать любых потенциальных кандидатов.
+- **Б) Номинации кандидатов:** Каждый Член Круга использует биллютень или любой другой носитель, чтобы назвать своего кандидата, которые по мнению Члена Круга наилучшим образом подойдёт на эту Роль. Члены Круга должны подписать свой биллютень своим именем, никто не может воздержаться или номинировать нескольких людей.
+- **В) Раскрытие номинаций:** Во время этого шага, Фасилитатор озвучивает номинации всех Членов Круга. Для каждого номинированного, тот, кто его выдвинул, озвучивает, почему считает этого номинанта подходящим кандидатом на данную Роль, никто не может отвечать. При этом запрещается комментировать других потенциальных кандидатов, кроме того, кого номинировал.
+- **Г) Раунд изменения номинаций:** Когда все номинации озвучена, каждый Член Круга может изменить свою номинацию и дать объяснение этому изменению. Отвечать запрещено.
+- **Д) Выдвижение предложения:** Фасилитатор считает количество номинаций каждого кандидата, и выдвигает Предложение выбрать того, у кого их больше. Если счёт равный, Фасилитатор может применить любой из следующих вариантов: (i) Если только один из ведущих кандидатов предложил сам себя, можно предложить этого человека; или (ii) если человек, выполняющий эту Роль на данный момент — среди ведущих кандидатов, можно предложить этого человека; или (iii) случайным образом вслепую выбрать одного из ведущих кандидатов, и предложить этого человека; или (iv) вернуться на предыдущий шаг процесса и попросить каждого Члена Круга, кто номинировал не кого-то из ведущих кандидатов, поменять свою номинацию на кого-то из них.
+- **Е) Раунд Возражений:** Фасилитор спрашивает каждого Члена Круга, есть ли у них Возражения на данное Предложение. Если Возражения находятся, Фасилитатор может или дать возможность поговорить, чтобы снять Возражения, или снять Предложение. Если Предложение снимается, Фасилитатор должен вернуться на предыдущий шаг процесса, и игнорируя все номинации в пользу снятого Предложения, применить правила предыдущего шага для выбора нового кандидата.
 
-The Facilitator may test the validity of a claimed Objection by asking the Objector questions. For a claimed Objection to survive the test, the Objector must be able to present a reasonable argument for why it meets each specific criteria required of an Objection. The Facilitator must discard an Objection if the Facilitator deems the Objector has failed to meet this threshold.
+Круг может принять Политику, определяющую ограничение по времени на номинации кандидатов или реакций на Предложение в Процессе Интегративных Выборов. Когда это время истекает, Фасилитатор должен исключить из оставшейся части процесса всех, кто не ответил.
 
-When assessing the validity of a claimed Objection, the Facilitator may only judge whether the Objector presented the required arguments, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of an argument’s accuracy or the importance of addressing it.
+#### 5.3.6 Замещение Фасилитатора и Секретаря
 
-However, when an Objection is claimed on the basis of a Proposal violating the Constitution, per Section 3.2.4(e), the Facilitator may ask the Circle’s Secretary to interpret if the Proposal does indeed violate the Constitution. If the Secretary rules that it does not, the Facilitator must then dismiss the Objection.
+Заместитель может выполнять Роли Фасилитатора или Секретаря, пока на них никто не назначен. Заместитель так же может выполнять эти Роли, когда действующие Фасилитатор или Секретарь не доступны, или по любой другой причине попросили замещения.
 
-#### 3.2.6 Rules of Integration
+Когда нужно замещение, заместитель назначается по одному из следующих вариантов, в порядке приоритета:
 
-When an Objection to a Proposal is raised, the following additional rules apply during the search for a resolution:
+- **А)** человек, назначенный самим тем, кому нужно замещение; или
+- **Б)** для Фасилитатора — действующий Секретарь Круга, и для Секретаря — действующий Фасилитатор круга; или
+- **Г)** Лидер Круга, или, если в Круге несколько Лидеров, то первый из них, кто объявит себя заместителем; или
+- **Д)** первый Член Круга, объявивший себя заместителем.
 
-- **(a)** The Facilitator must test an Objection if requested by any Core Circle Member, and discard it if it fails to meet the validity criteria described in this Section.
-- **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. Others may help. If the Facilitator concludes that the Objector is not making a good faith effort to find a potential amendment at any point, then the Facilitator must deem the Objection abandoned and continue processing the Proposal as if the Objection had not been raised.
-- **(c)** Any Core Circle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator concludes that the Proposer is not making a good faith effort to answer those questions at any point, then the Facilitator must deem the Proposal invalid for processing and abandoned.
-- **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve or prevent the Tension in each specific situation the Proposer used to illustrate the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve or prevent the Tension in at least one specific situation already presented. Alternatively, the Proposer may add an additional example that the amended Proposal would not resolve, but which still meets the criteria for processing a Proposal required by Section 3.2.2. If the Facilitator concludes that the Proposer has failed to meet one of these thresholds, then the Facilitator must deem the Proposal invalid for processing and abandoned.
+### 5.4 Законодательные встречи
 
-### 3.3 Governance Meetings
+В дополнение к обработке Преддложений, внесённых асинхронно, вне каких-либо встреч, каждый Круг должен проводить регулярные ***"Законодательные Встречи"***, чтобы обеспечить проведение Законодательного Процесса Круга в режиме реального времени. В любой момент, пока Круг обрабатыват Предложение асинхронно, любой Член Круга может запросить, чтобы Предложение было перенесено на Законодательную Встречу, для обработки в режиме реального времени, при этом асинхронная обработка должна немедленно прекратиться.
 
-The Secretary of a Circle is responsible for scheduling Governance Meetings to enact the Circle’s Governance Process.
+Секретарь Круга отвечает за расписание Законодательных Встреч, и его Фасилитатор отвечает за проведение этих встреч в соответствии с описанными здесь правилами. В дополнение к назначенным регулярно Законодательным Встречам Круга, Секретарь может назначать специализированные Законодательные Встречи по запросу любого Члена Круга. Запрашивающий может указать своё намерение на такую специальную Законодательную Встречу и любые ограничения того, что на этой встрече можно менять. Это может включать описание конкретного Напряжения, или ограничивать такую встречу изменениями в конкретных указанных Ролях. В этом случае, полномочия этой специальной Законодательной Встречи будут ограничены только обработкой Предложений, соответствующих заявленному намерению и производящих только изменения в указанных рамках.
 
-In addition to any regular, recurring Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Core Circle Member. 
+#### 5.4.1 Участие
 
-The Facilitator is responsible for presiding over all Governance Meetings in alignment with the following rules and any relevant Policies of the Circle.
+Все Члены Круга могут участвовать в его Законодательных Встречах. Действующие Фасилитатор и Секретарь так же могут участвовать, если даже они не являются Членами Круга. В этом случае, на время встречи они считаются Членами Круга.
 
-#### 3.3.1 Attendance
+Как Представитель Круга, Вы можете пригласить любого Партнёра прийти на Законодательную Встречу любого Круга, непосредственно содержащего Ваш Круг. Вы можете пригласить не более одного Партнёра за раз, и только чтобы помочь в обработке конкретного Напряжения Круга, который Вы представляете. Вы должны так же чувствовать это напряжение, и считать что его есть смысл обрабатывать в этом Круге. Ваш приглашенный гость считается Членом Круга на время встречи, или пока приглашение не будет отозвано. Ваш гость может представлять Ваш Круг на встрече вместе с Вами, но только в процессе обработки указанного Напряжения.
 
-All Core Circle Members are entitled to fully participate in all Governance Meetings of a Circle. The acting Facilitator and Secretary are also entitled to fully participate, and become Core Circle Members for the duration of a Governance Meeting even if they are not normally Core Circle Members.
+Помимо указанных выше, никто другой не может участвовать в Законодательных Встречах Круга.
 
-In addition, the Lead Link and any Rep Links or Cross Links to the Circle may each invite up to one additional person, solely to aid the link in processing a specific Tension. The invited participant then becomes a Core Circle Member as well for the duration of that Governance Meeting.
+#### 5.4.2 Уведомление и продолжительность
 
-Beyond those listed in this paragraph, no one else is allowed to participate in a Circle’s Governance Meetings unless explicitly invited by a Policy of the Circle.
+Круг может проводить Законодательные Встречи только если Секретарь заранее за разумное время уведомил о такокй встрече всех Членов Круга. Кроме этого условия, для проведения Законодательной Встречи Круга не требуется какой-либо кворум, если только такой кворум не установлен Политикой.
 
-#### 3.3.2 Notice & Quorum
+Законодательные Встречи заканчиваются, как только истекает время встречи, запланированное Секретарём. Секретарь может продлить встречу, но только если ни один из Членов Круга не попросит этого не делать.
 
-A Circle may only conduct its Governance Process in a meeting if the Secretary has given all Core Circle Members reasonable advance notice that a Governance Meeting will be held, including its time and location.
+Считается, что любой Член Круга, который пропустил запланированную Законодательную Встречу или её часть, имел возможность высказать любые сомнения относительно любого Предложения, которое там рассматривалось. Таким образом, Круг может принимать Предложения на Законодательных Встречах без оглядки на отсутствующих участников.
 
-Beyond this notice requirement, there is no quorum required for a Circle to conduct a Governance Meeting, unless one is specified by a Policy of the Circle.
+#### 5.4.3 Процесс встречи
 
-Anyone who fails to attend a Governance Meeting counts as having had the opportunity to consider all Proposals made within the meeting, and raised no Objections to their adoption.
+Фасилитатор обязан использовать для Законодательных Встреч следующий процесс:
 
-#### 3.3.3 Meeting Process
+- **А) Раунд входа:** Каждый участник по очереди делится своим текущим состоянием, или озвучиват любые другие открывающие комментарии встрече. Отвечать запрещено.
+- **Б) Формирование Повестки и её обработка:** Фасилитатор формирует повестку из Напряжений на обработку, затем по очереди обрабатывает каждый пункт.
+- **В) Закрывающий раунд:** Каждый участник по овереди делится закрывающими соображениями о встрече. Отвечать запрещено.
 
-The Facilitator must use the following process for Governance Meetings:
+В любой момент в процессе встречи участник может запросить остановку на ***"Тайм-Аут"***. Фасилитатор решает, удовлетворить такой запрос, или нет. Во время Тайм-Аута, укчастники могут обсуждать административные вопросы или правила Конституции. Они не могут использовать время Тайм-Аута для работы над разрешением Напряжения, Предложением или Возражением. Фасилитатор может прекратить Тайм-Аут в любой момент и продолжить нормальный процесс встречи.
 
-- **(a) Check-in Round:** The Facilitator allows each participant in turn to share their current state or thoughts, or offer another type of opening comment for the meeting. Responses are not allowed.
-- **(b) Administrative Concerns:** The Facilitator allows space to discuss and resolve any administrative or logistical matters the Facilitator deems worthy of attention.
-- **(c) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
-- **(d) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
+Политика Круга может расширять этот процесс, но не может противоречить ни одному из правил или требований, определённых в этой Статье Конституции.
 
-A Policy of the Circle may add to this process, but may not conflict with any of the steps or other rules defined in this Article of the Constitution.
+#### 5.4.4 Формирование Повестки
 
-#### 3.3.4 Agenda Building
+Фасилитатор формирует повестку из Напряжений на обработку, собирая пункты повестки от всех участников. Фасилитатор должен делать это непосредственно на встрече, а не заранее. Каждый участник может добавлять столько пунктов повестки, сколько пожелает, давая для каждого краткое название, объяснение или обсуждение не разрешается. Участники так же могут добавлять пункты повестки и позже, в процессе встречи, между обработкой существующих пунктов повестки.
 
-The Facilitator must build an agenda of Tensions to process within a Governance Meeting by soliciting and capturing agenda items from all participants. This must be done within the meeting and not beforehand, and each participant may add as many agenda items as desired. Participants may add additional agenda items during the meeting as well, in between the processing of any existing agenda items.
+Для регулярных Законодательных Встреч, Фасилитатор может выбрать порядок, в котоорм будет обрабатывать пункты повестки. Однако, по запросу любого участника, все пункты повестки, запрашивающие выборы, должны быть обработаны прежде других. На специальной Законодательной Встече, назначенной по запросу участника, этот участник может определять последовательность обработки повестки.
 
-- **(a) Agenda Item Format:** Each agenda item in a Governance Meeting represents one Tension to process, sensed by the participant who added it to the agenda. When adding an agenda item, a participant may only provide a short label for the Tension, and may not explain or discuss the Tension further until processing of that agenda item actually begins.
-- **(b) Ordering the Agenda:** The Facilitator may determine the order in which to process agenda items, using any process or criteria the Facilitator deems appropriate. However, the Facilitator must place any agenda item calling for an election of any of the Circle’s Elected Roles before all other agenda items, if requested by any meeting participant. Further, if the meeting was scheduled at the special request of one participant, the Facilitator must place all agenda items raised by that participant before any raised by others, unless that participant allows otherwise.
-- **(c) Processing Agenda Items:** Once the Facilitator determines an initial order for the agenda, the Facilitator must lead participants through processing each agenda item, one at a time. To process an agenda item that calls for an election, the Facilitator must use the **_“Integrative Election Process”_** defined in Section 3.3.6. To process any other agenda item, the Facilitator must use the **_“Integrative Decision-Making Process”_** defined in Section 3.3.5.
+Пункты повестки обрабатываются по одному за раз. Чтобы обработать запрос на выборы, Фасилитатор использует Интегративный Процесс Выборов. Чтобы обработать что либо другое, Фасилитатор использует Интегративный Процесс Принятия Решений, описанный ниже.
 
-#### 3.3.5 Integrative Decision-Making Process
+#### 5.4.5 Интегративный Процесс Принятия Решений
 
-The Facilitator must enact the Integrative Decision-Making Process as follows:
+Фасилитатор должен следовать Интегративному Процессу Принятия Решений как описано ниже:
 
-- **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address the Tension. If the Proposer requests help crafting a Proposal, the Facilitator may allow discussion or another collaborative process to assist. However, the Facilitator must focus this activity solely on crafting an initial Proposal for the Proposer’s Tension, and not on addressing other Tensions or integrating others’ concerns into the Proposal.
-- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, the other participants may ask clarifying questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must disallow any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Any participant may also ask the Secretary to read the captured Proposal or clarify any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
-- **(c) Reaction Round:** Once there are no further clarifying questions, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop and disallow any out-of-turn comments, any attempts to engage others in a dialog or exchange of any sort, and any reactions to other reactions instead of to the Proposal.
-- **(d) Amend & Clarify:** After the reaction round, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. During this step, the Facilitator must immediately stop and disallow any comments by anyone other than the Proposer or Secretary, and any engagement by the Secretary must focus solely on capturing the amended Proposal.
-- **(e) Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitator must stop and disallow discussion or responses of any sort. The Facilitator may test Objections as described in Section 3.2.5, and must capture any valid Objections that remain after testing. If there are no valid Objections, the Secretary records the Proposal as adopted Governance for the Circle.
-- **(f) Integration:** If there are valid Objections, the Facilitator then facilitates a discussion to amend the Proposal to resolve each Objection, one at a time. The Facilitator marks an Objection as resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that the amended Proposal would still address the Proposer’s Tension. During the discussion, the Facilitator must apply the rules of integration described in Section 3.2.6. Once all captured Objections are addressed, the Facilitator moves back to the Objection round to check for new Objections to the amended Proposal.
+- **А) Презентация Предложения:** Сначала, Предлагающий может описать Напряжение и представить сооответствующее Предложение. По запросу Предлагающего, Фасилитатор может разрешить другим помочь сформировать Предложение. Однако, Фасилитатор должен фокусировать такую помощь исключительно на получении первоначального Преложения, которое сняло бы Напряжение Предлагающего. Фасилитатор должен запрещать любые дискуссии, кроме обсуждения Напряжения или соображений относительно Предложения.
+- **Б) Уточняющие вопросы:** Когда Предлагающий внёс Предложение, другие другие могут задавать вопросы, чтобы лучше понять Предложение или стоящее за ним Напряжение. На каждый вопрос Предлагающий может ответить, или отлонить его. Фасилитатор должен останавливать любые реакции или мнения относительно Предложения, чтобы помешать обсуждению любого рода. Участники так же могут попросить Секретаря прочитать Предложение, или показать существующее Законодательство, во время этого шага, или любого другого, где участнику разрешено говорить, Секретарь обязан это сделать.
+- **В) Раунд реакций:** Далее, каждый участник, кроме Предлагающего, может поделиться реакцией на Предложение, в порядке очереди. Фасилитатор должен немедленно останавливать любые комментарии вне очереди, любые попытки вовлекать других в диалог, любые реакции на реакции других участников, вместо Предложения.
+- **Г) Изменение и уточнение:** Далее, Предлагающий может прокомментировать любые реакции, и внести правки в Предложение. Однако, основное намерение таких правок должно заключаться в попытке лучше снять Напряжение Предлагающего, а не Напряжения, обозначенные другими. Фасилитатор должен немедленно останавливать комментарии от других участников, кроме Предлагающего и Секретаря. Любое взаимонейдствие с Секретарём должно быть направлено на внесение правок в Предложение.
+- **Д) Раунд Возражений:** Далее, каждый участник, в порядке очереди, может делиться сомнениями относительно принятия Предложения. Фасилитатор должен или записать эти сомнения как Возражения, или проверить их на соответствие критериям Возражений, и записать те Возражения, которые соответствуют. Если не нашлось Возражений, то Предложение принимается. В процессе проверки сомнений и фиксации Возражений, Фасилитатор должен останавливать любые попытки обсуждения или ответы от других участников, кроме Возражающего.
+- **Е) Интеграция** Если нашлись Возражения, Фасилитатор далее сосредотачивается на них в порядке очереди. Для каждого, участники ищут потенциальное изменение Предложения, снимающее Возражение. Фасилитатор отмечает Возражение как разрешенное, как только Возражающий подтверждает, что измененное предложение не вызывает того же Возражения, и Предлагающий подтверждает, что оно по прежнему снимает исходное Напряжение. Во время этого шага, Фасилитатор должен применять правила интаграции, описанные в этой главе. Когда все Возражения разрешены, Фасилитатор возвращается обратно к раунду Выозражений с изменённым Предлложением.
 
-#### 3.3.6 Integrative Election Process
+### 5.5 Конфликты интерпретации
 
-The Facilitator must enact the Integrative Election Process as follows:
+Как у Партнёра, Ваша интерпретация Конституции и Законодательства Организации может иногда конфликтовать с интерпретациями других Партнёров. Когда это происходит, любая сторона может спросить Секретаря любого вовлеченного Круга определить, какую интерпретацию применять. Прежде чем Секретарь ответит6 каждый сторона может пользоваться своей интерпретацией. Когда Секретарь ответил, все обязаны подстроиться под интерпретацию Секретаря, пока связанное с этим Законодательство или контекст не изменятся.
 
-- **(a) Describe Role:** First, the Facilitator must identify the target Role and term for the election. The Facilitator may also describe the functions of the target Role, and present other relevant information about the Role.
-- **(b) Fill Out Ballots:** Each participant must then fill out a ballot to nominate whomever the participant believes is the best fit for the Role among all eligible candidates. Each participant must label the ballot with his or her own name as well, and no one may abstain or nominate multiple people. Before and during this step, the Facilitator must promptly stop all comments or discussion about potential candidates or nominations.
-- **(c) Nomination Round:** Once all ballots are submitted, the Facilitator must share the contents of each ballot, one at a time, with all participants. When the Facilitator shares a nomination, the nominator must state why he or she believes that candidate would be a good fit for the Role. The Facilitator must stop any responses or other comments, as well as any comments by a nominator about other potential candidates besides the nominee.
-- **(d) Nomination Change Round:** Once all nominations are shared, the Facilitator must give each participant the opportunity to change his or her nomination. A participant making a change may explain his or her reason for selecting a new candidate, but the Facilitator must stop any other comments or discussion.
-- **(e) Make a Proposal:** Next, the Facilitator must count the nominations and make a Proposal to elect the candidate with the most nominations for the specified term. If there is a tie for the most nominations, then the Facilitator may do any one of the following: (i) blindly select one of the tied candidates randomly, and propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) if only one of the tied candidates has nominated himself or herself, propose that person; or (iv) go back to the previous step and require each participant who nominated someone other than a tied candidate to change that nomination to one of the tied candidates, then continue back to this step and re-apply its rules.
-- **(f) Process Proposal:** Once the Facilitator makes a Proposal to elect a candidate, the Facilitator must move to the Integrative Decision-Making Process to resolve that Proposal. However, the Facilitator must start directly with the Objection round, and, if the proposed candidate is present, the Facilitator must ask the candidate for Objections last. If any Objections are raised, the Facilitator may choose to process them normally, or to discard the Proposal either immediately after the Objection round or at any point during the integration step. If the Facilitator opts to discard the Proposal, the Facilitator must go back to the prior step in this process, discard all nominations for the prior candidate, and follow the rules of the prior step to select another candidate to propose instead.
+После определения интерпретации, Секретарь может опубликовать правило и логику, стоящую за ним. Когдда опубликовано, Секретарь этого Круга и любого вложенного Круга должен следовать той же логике в будущих интерпретациях. Однако, Секретарь может по прежнему поменять её, как только появятся новые обстоятельства, которые сделают эту логику неподходящей.
 
-#### 3.3.7 Operational Decisions in Governance Meetings
+Вы можете оспорить интерпретацию Секретаря через Секретаря его Супер-Круга. Секретарь Супер-Круга может переопределить любую интерпретацию Секретаря в Под-Круге.
 
-Governance Meetings are primarily intended to support a Circle’s Governance Process. As long as it does not distract from this intended focus, any participant may nonetheless accept Projects or Next-Actions during a Governance Meeting, or make other operational decisions that are outside the scope of the Circle’s Governance Process. However, the Secretary may not capture any operational outputs or decisions in the formal Governance minutes or records of the Circle. Further, operational outputs and decisions made in a Governance Meeting carry no more or less weight or authority than those made outside of a Governance Meeting.
+### 5.6 Нарушение процесса
 
-### 3.4 Interpreting the Constitution & Governance
+***"Нарушение процесса"*** происходит, когда Круг демонстрирует поведение или результаты, которые нарушают правила Конституции. Фасилитатор или Секретарь Круга должны объявить Нарушение Процесса в этом круге или каком-либо его Под-Круге, на основе своих суждений.
 
-As a Partner of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. You may also rely on an explicit interpretation given by the Secretary of any Circle that is affected by the Governance. However, in either case, the following additional terms apply:
+#### 5.6.1 Отказ от неудачного Законодательства
 
-#### 3.4.1 Secretary Interpretation Trumps
+Фасилитатор Круга может объявить в Круге Нарушение Процесса, если по Предложению не удаётся прийти к заключительному решению после того как на это потрачено разумное время от начала попыток до поиска решения.
 
-If your interpretation conflicts with an interpretation ruling made by a Secretary, the Secretary’s interpretation trumps your own and applies instead, and you are responsible for aligning with it until any underlying Governance changes.
+#### 5.6.2 Восстановление процесса
 
-#### 3.4.2 Super-Circle Interpretation Trumps
+Когда уполномоченная стоорна объявляет в Круге Нарушение Процесса, происходит следующее:
 
-A Circle’s Secretary may overrule an interpretation given by a Secretary of any Sub-Circle. If two Secretaries give conflicting rulings and one is from the Secretary of a Circle that ultimately contains the other Circle, then you are responsible for aligning with the interpretation given by the broader Circle’s Secretary.
+- **А)** Фасилитатор получает полномочия оценивать логику и релевантность любых аргументов, чтобы проверить на действительность Предложение или Возражения в Круге; и
+- **Б)** Фасилитатор Супер-Круга получает Проект на восстановление процесса в рамках Круга; и
+- **В)** Фасилитатор Супер-Круга получает полномочия перенять роль Фасилитатора или Секретаря в Круге; и
+- **Г)** Фасилитатор Супер-Круга может назначить дополнительного Лидера круга на время Нарушения Процесса. Любые решения, которые этот человек принимает как Лидер круга, перебивают или отменяют конфликтующие решения других Лидеров Круга.
 
-#### 3.4.3 Interpretations Become Standards
+Эти полномочия заканчиваются как только нарушенный процесс в Круге восстановлен, по оценке Фасилитатора Супер-Круга.
 
-After ruling on an interpretation, a Secretary may choose to publish that interpretation and the logic behind it in the Governance records of the Circle. If published, the Secretary of that Circle and the Secretaries of any contained Circles are responsible for attempting to align any future rulings with the previously published logic and interpretations.
+Если у Круга с Нарушением Процессе нет Супер-круга, то все перечисленные выше полномочия даются Фасилитату данного Круга.
 
-A Secretary may only contradict previously published logic or interpretations once a compelling new argument or circumstance supports a reversal. Once contradicted however, the new logic and interpretations become the acting standard that all future rulings must align with.
+#### 5.6.3 Эскалация нарушения процесса
 
-#### 3.4.4 Striking Invalid Governance
+Нарушене Процесса в одном Круге не рассматривается как Нарушение Процесса в его Супер-Круге автоматически. Однако, если оно остаётся неразрешенным неадекватно долго, то считается что в Супер-Круге тоже Нарушение Процесса.
 
-Any Circle Member of a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Core Circle Members of the Circle that held the offending Governance.
 
-### 3.5 Process Breakdown
+## Статья 6: Люди и партнёрство
 
-A **_“Process Breakdown”_** occurs when a Circle shows a pattern of behavior that conflicts with the rules of this Constitution.
+### 6.1 Партнёрские Отношения
 
-#### 3.5.1 Breakdown from Failed Governance
+Организация может дать статус Партнёра любому, кто согласился выполнять все релевантные правила этой Конституции. Это создаёт ***"Партнёрские Отношения"*** между этим человеком и Организацией. Любые обещания, которые каждая из сторон даёт другой, вместе с наделением статусом Партнёра — это часть Партнёрских Отношений. Кроме случаев, когда оговорено обратное, ни одна сторона не может изменить эти договорённости без согласия другой. Однако, каждая сторона по прежнему может прекратить Партнёрские Отношения, без согласия другой. Это немедленно останавливает все права и обязанности этого человека как Партнёра.
 
-The Facilitator of a Circle may declare a Process Breakdown in the Circle if the Core Circle Members fail to successfully process a Proposal in a Governance Meeting, even after a reasonably long time is spent trying to do so. If the Proposer specially requested that Governance Meeting specifically for processing that Proposal, then the Proposer may also declare a Process Breakdown in this case.
 
-#### 3.5.2 Breakdown from Unconstitutional Behavior
+### 6.2 Рабочие Соглашения
 
-The Facilitator of a Circle may declare a Process Breakdown within one of its Sub-Circles upon discovering a pattern of behavior or outputs within the Sub-Circle that conflict with the rules of this Constitution. However, if that Facilitator is also the Sub-Circle’s Lead Link or Facilitator, then the Super-Circle’s Secretary or Rep Link may also make this declaration.
+Партнёры Организации могут заключать друг с другом ***"Рабочие Соглашения"***. Такие соглашения описывают, как Партнёры будут взаимодействовать для обеспечения их основной функции как Партнёров. Они должы быть сосредоточены на поведении, в целом лежащем в основе совместной работы. Они не могут устанавливать ожидания на работу в Роли, или ожидания о том, как Партнёр будет приоритизировать разные Роли. Более того, они могут указывать только конкретные поступки или ограничения на поведение. Они не могут включать обещаний достигать определённых результатов или воплощать абстрактные качества.
 
-#### 3.5.3 Process Restoration
+Как Партнёр, вы можете запросить Рабочее Соглашение с другим Партнёром по Вашем собственным предпочтениями или в интересах Роли, которую вы выполняете. Этот Партнёр может принять или отвергнуть запрошенное Рабочее Соглашение, на основе его собственных предпочтений. Любая сторона может в любой момент прекратить действие соглашения, без согласия другой стороны, если не оговорено обратное.
 
-Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
+Как у Партнёра, у вас есть обязанность следовать всем Рабочим Соглашениям, которые вы заключили. Любой, кто ведёт встречу или процесс могут так же требовать выполнения Рабочих Соглашений в этом процессе или на этой встрече, покуда они не противоречат чему-либо в этой Конституции.
 
-- **(a)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
-- **(b)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle, or to appoint someone else to do so; and
-- **(c)** the Facilitator of the Circle gains the authority to judge the accuracy of any arguments presented to validate Tensions or Objections within the Circle’s Governance Process.
-
-These authorities are temporary and cease as soon as the Facilitator of the Super-Circle concludes that due process has been restored within the Circle.
-
-#### 3.5.4 Escalation of Process Breakdown
-
-A Process Breakdown of one Circle may not be considered a Process Breakdown of its Super-Circle, as long as the Super-Circle’s Facilitator is working to resolve the Process Breakdown promptly and diligently.
-
-However, if the Process Breakdown is not resolved within a reasonable timeframe, then the Facilitator of any Super-Circle that ultimately contains the offending Circle may declare a Process Breakdown within the offending Circle’s Super-Circle as well.
-
-## Article IV: Operational Process
-
-### 4.1 Duties of Circle Members
-
-When filling a Role in a Circle, you have the following duties to your fellow Circle Members when they’re acting on behalf of other Roles in the Circle.
-
-#### 4.1.1 Duty of Transparency
-
-You have a duty to provide transparency when requested by your fellow Circle Members, in any of the following areas:
-
-- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles in the Circle.
-- **(b) Relative Priority:** You must share your judgment of the relative priority of any Projects or Next-Actions tracked for your Roles in the Circle, vs. any other potential activities competing for your attention or resources.
-- **(c) Projections:** You must provide a projection of the date you expect to complete any Project or Next-Action tracked for any of your Roles in the Circle. A rough estimate is sufficient, considering your current context and priorities, but without detailed analysis or planning. This projection is not a binding commitment in any way, and unless Governance says otherwise, you have no duty to track the projection, manage your work to achieve it, or follow-up with the recipient if something changes.
-- **(d) Checklist Items & Metrics:** You must share whether you have completed any regular, recurring actions that you routinely perform in service your Roles in the Circle. You must also track and report on any metrics assigned to your Roles by the Circle’s Lead Link, or by any other Role or process granted the authority to define the Circle’s metrics.
-
-#### 4.1.2 Duty of Processing
-
-You have a duty to promptly process messages and requests from your fellow Circle Members, as follows:
-
-- **(a) Requests for Processing:** Other Circle Members may ask you to process any Accountability or Project on a Role you fill in the Circle. If you have no Next-Actions tracked for it, you must identify and capture a Next-Action if there are any reasonable ones you could take. If there are not, you must instead share what you’re waiting on. That must be either a Next-Action or Project tracked by another Role, or a specific event or condition that must happen before you can take further Next-Actions.
-- **(b) Requests for Projects & Next-Actions:** Other Circle Members may ask you to take on a specific Next-Action or Project in one of your Roles in the Circle. If you deem it a reasonable Next-Action or Project to take on, you must accept it and track it. If not, then you must either explain your reasoning, or capture and communicate a different Next-Action or Project that you believe will meet the requester’s objective.
-- **(c) Requests to Impact Domain:** Other Circle Members may ask to impact a Domain controlled by one of your Roles in the Circle. If you see no Objections to the request, you must allow it. If you do, you must explain any Objections to the requester.
-
-#### 4.1.3 Duty of Prioritization
-
-You have a duty to prioritize where to focus your attention and resources in alignment with the following constraints:
-
-- **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from fellow Circle Members over executing your own Next-Actions. However, you may temporarily defer processing in order to batch process messages in a single time block or at a more convenient time, as long as your processing is still reasonably prompt. Processing means engaging in the duties described in this section, including considering the message, defining and capturing Next-Actions or Projects when appropriate, and, upon request, responding with how the message was processed. Processing does not mean executing upon captured Next-Actions and Projects, which is not covered by this prioritization rule.
-- **(b) Requested Meetings Over Execution:** On request of a fellow Circle Member, you must prioritize attending any Circle meeting required by this Constitution over executing your own Next-Actions. However, you may still decline the request if you already have plans scheduled over the meeting time, or if the request was for an ongoing series or pattern of meetings rather than a specific meeting instance.
-- **(c) Circle Needs Over Individual Goals:** You must integrate and align with any official prioritizations or Strategies of the Circle, such as those specified by the Circle’s Lead Link, when assessing how to deploy your time, attention, and other resources to your work within the Circle.
-
-#### 4.1.4 Links May Convey Duties
-
-As a Lead Link, Rep Link, or Cross Link into a Circle, you may invite someone else to engage the Circle Members of the Circle in the duties specified in this section. You may only extend this invitation to aid in the processing of a specific Tension affecting the entity you are linked from, and only if you also sense the Tension and stay engaged in its processing. The person you invite temporarily becomes a full Circle Member, as if he or she also fills your link role, but only while directly processing that specific Tension. You may withdraw this invitation anytime.
-
-#### 4.1.5 Implicit Expectations Hold No Weight
-
-All of your responsibilities and constraints as a Partner of the Organization are defined in this Constitution, and in the Governance that results from it. No former or implicit expectations or constraints carry any weight or authority, unless a Circle’s Governance explicitly empowers them, or they come from a basic obligation or contractual agreement you personally have to or with the Organization.
-
-### 4.2 Tactical Meetings
-
-The Secretary of a Circle is responsible for scheduling regular **_“Tactical Meetings”_** to facilitate the Circle’s operations. The Facilitator is responsible for presiding over Tactical Meetings in alignment with the following rules and any relevant Policies of the Circle.
-
-#### 4.2.1 Focus & Intent
-
-Tactical Meetings are for:
-
-- **(a)** sharing the completion status of recurring actions on checklists owned by the Circle’s Roles;
-- **(b)** sharing regular metrics assigned to the Circle’s Roles to report;
-- **(c)** sharing progress updates about Projects and other work owned by the Circle’s Roles; and
-- **(d)** triaging Tensions limiting the Circle’s Roles into Next-Actions, Projects, or other outputs that help reduce those Tensions.
-
-#### 4.2.2 Attendance
-
-All Core Circle Members and anyone else normally invited to participate in the Circle’s Governance Meetings are also invited to participate in its Tactical Meetings, unless a Policy says otherwise. There is no advance notice or quorum required for a Tactical Meeting, unless a Policy says otherwise.
-
-#### 4.2.3 Facilitation & Process
-
-The Facilitator must normally use the following process for Tactical Meetings:
-
-- **(a) Check-in Round:** The Facilitator allows each participant in turn to share their current state or thoughts, or offer another type of opening comment for the meeting. Responses are not allowed.
-- **(b) Checklist Review:** The Facilitator asks each participant to verify the completion of any recurring actions on that participant’s checklist.
-- **(c) Metrics Review:** The Facilitator asks each participant to share data for any metrics assigned to that participant by the Lead Link or whatever other Role or process defines the Circle’s metrics.
-- **(d) Progress Updates:** The Facilitator asks each participant to highlight progress towards achieving any Project or expressing any Accountability of any of the participant’s Roles in the Circle. Participants may only share progress made since the last report given, and not the general status of a Project or Accountability. Each participant may decide which Projects or Accountabilities are worth reporting on, however if another Circle Member explicitly requested updates on a specific Project, that one must be included until it’s either completed or dropped. For progress updates about a Project or Accountability of a Sub-Circle, the Facilitator must allow both the Lead Link and Rep Link of the Sub-Circle the opportunity to share updates.
-- **(e) Triage Issues:** The Facilitator is responsible for building an agenda of Tensions to process in the Tactical Meeting by soliciting agenda items from all participants, using the same rules as those for a Governance Meeting, defined in Section 3.3.4. However, in Tactical Meetings, the Facilitator processes agenda items by simply allowing the agenda item owner to engage others in their Roles and duties as desired, until a path for resolving the Tension is identified. If any Next-Actions or Projects are accepted during this discussion, the Secretary is responsible for capturing them and distributing these outputs to all participants. The Facilitator must attempt to allow time for processing every agenda item within the meeting, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
-- **(f) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
-
-A Circle may adopt a Policy to add to or change this required process.
-
-#### 4.2.4 Surrogate for Absent Members
-
-If a Defined Role of the Circle is entirely or partially unrepresented at a Tactical Meeting due to someone’s absence, the Circle’s Lead Link may act within that Role to cover the gap. If the Lead Link is also absent, any participant may accept Next-Actions or Projects on behalf of that Role, however these may be treated by the person who normally fills the Role as just requests made under the terms of Section 4.1.2(b).
-
-### 4.3 Individual Action
-
-As a Partner of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Action”_**, and you are bound by the following rules:
-
-#### 4.3.1 Allowed Situations
-
-You may only take Individual Action when all of the following are true:
-
-- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization, or of the overall Organization itself.
-- **(b)** You reasonably believe your action would resolve or prevent more Tension for the Organization than it would likely create.
-- **(c)** Your action would not cause, commit to, or allow spending or otherwise disposing of the Organization’s resources or other assets, beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Domains or Policies, you reasonably believe that you can’t delay the action long enough to request any permissions normally required, or to propose a Governance change to allow your action, without losing much of its potential value.
-
-#### 4.3.2 Communication & Restoration
-
-Upon taking Individual Action, you have a duty to explain your action and the intent behind it to any Partner who fills a Role that may be significantly impacted. Upon the request of any of those Partners, you also have a duty to take any reasonable additional actions to assist in resolving any Tensions created by your Individual Action.
-
-If your Individual Action was effectively acting within another Role, or violated a Domain or a Policy, then you must cease from continuing to take similar Individual Action upon request of whoever normally controls that Role, Domain, or Policy, or upon request of the Lead Link of the Circle holding the affected entity.
-
-#### 4.3.3 Clarifying Governance
-
-If your Individual Action is an instance of a recurring activity or ongoing function needed by a Circle, and that activity or function is not already explicitly called for by the Circle’s Governance, then you are responsible for taking follow-up steps to remove that gap. That follow-up could include proposing Governance to cover the need, or taking steps to remove the need for this activity or function to happen in the first place.
-
-#### 4.3.4 Priority of Corollary Requirements
-
-After taking Individual Action, you have a duty to prioritize doing the corollary requirements defined in this section higher than doing any of your regular work. However, the Lead Link of whatever Circle fully contains all Roles that were significantly impacted by your action may still change this default priority.
-
-## Article V: Adoption Matters
-
-### 5.1 Ratifiers Cede Authority
-
-By adopting this Constitution, the Ratifiers cede their authority to govern and run the Organization or direct its Partners, and may no longer do so except through authority granted to them under the Constitution’s rules and processes. However, as an exception to this rule, the Ratifiers may continue to hold and exercise any authority that they do not have the power to delegate, such as anything required by policies outside of their control, or by the Organization’s bylaws.
-
-### 5.2 Anchor Circle
-
-Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This **_“Anchor Circle”_** becomes the broadest Circle in the Organization, and automatically controls all Domains that the Organization itself controls.
-
-#### 5.2.1 Links to the Anchor Circle
-
-The Ratifiers may appoint an initial Lead Link of the Anchor Circle.
-
-Alternatively, the Ratifiers may leave the Anchor Circle without a Lead Link, and create one or more initial Cross Links to the Anchor Circle in lieu of a Lead Link.
-
-#### 5.2.2 Acting Without a Lead Link
-
-If the Anchor Circle has no Lead Link, all decisions that normally require Lead Link authority become valid outputs of the Circle’s Governance Process. Any Role within the Circle may thus exercise Lead Link authority by proposing a decision as a Governance change for the Circle, using the process and rules in Article III.
-
-Further, in an Anchor Circle with no Lead Link, the normal authority of Roles to autocratically impact Circle Domains (per Section 2.1.2) is revoked. Instead, the Circle’s Roles may only impact its Domains if a Policy explicitly allows the impact, or, alternatively, by proposing the action using the Circle’s Governance Process, exactly as described above for exercising Lead Link authority.
-
-#### 5.2.3 Organization’s Purpose
-
-The Anchor Circle is automatically accountable for discovering and expressing the Purpose of the overall Organization. The Purpose of the Organization is the deepest creative potential it can sustainably express in the world, given all of the constraints acting upon it and everything available to it. That includes its history, current capacities, available resources, Partners, character, culture, business structure, brand, market awareness, and all other relevant resources or factors.
-
-The Anchor Circle’s Lead Link inherits this Accountability by default, and may capture and update the Purpose to express this Accountability.
-
-If the Anchor Circle has no Lead Link, this Accountability automatically falls upon each Cross Link to the Anchor Circle instead, and any of them may update the Purpose by proposing the update via the Circle’s Governance Process.
-
-#### 5.2.4 Updating the Anchor Circle
-
-The Lead Link of the Anchor Circle has the authority to name the Circle, clarify its Domains, and add or modify its Accountabilities.
-
-The Lead Link of the Anchor Circle may also appoint his or her own replacement as desired, unless otherwise specified by the Ratifiers.
-
-#### 5.2.5 No Super-Circle
-
-The Anchor Circle has no Super-Circle, and does not elect a Rep Link.
-
-### 5.3 Initial Structure
-
-The Lead Link of the Anchor Circle may define an initial structure and other Governance for the Organization, outside of the usual Governance Process required by this Constitution. If that initial structure includes any other Circles, the Lead Links of those Circles may do the same within their Circles. This authority may only be used to define an initial structure for a Circle to start from, before the Circle has begun conducting its Governance Process.
-
-### 5.4 Legacy Policies and Systems
-
-Any existing policies and systems the Organization has in effect before adopting this Constitution continue in full force after adoption, even if they include constraints or authorities that are not reflected in Governance records. This may include compensation systems, hiring and firing processes, work-related policies, etc.
-
-However, these legacy policies and systems will lose all weight and authority as soon as Governance is defined that replaces or contradicts them. In addition, they may not be modified or added to in their legacy form. Anyone wishing to do so must first capture or otherwise empower the policy or system using the Governance Process defined in this Constitution.
-
-### 5.5 Constitution Amendments and Repeal
-
-The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Partners of the Organization can access them.
 
 ---
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+# **Приложение А**
+
+## Лидер Круга
+
+**Миссия:** _Лидер Круга служит Миссии всего Круга._
+
+**Домены:**
+
+- Назначения на Роли в Круге
+
+**Обязательства:**
+
+_Лидер круга выполняет все Обязательства Круга в той мере, в которой они не закрыты другими Ролями или процессами в Круге._
+
+## Представитель Круга
+
+**Миссия:** Напряжения, которые нуждаются в обработке в более широком Круге, передаются наружу и решаются.
+
+**Обязательства:**
+
+- Стремиться понимать Напряжения, обозначенные Лидерми Ролей в Круге
+- Распознавать Напряжения, нуждающиеся в обработке в рамках более широкого Круга
+- Обрабатывать Напряжения в рамках более широкого Круга, чтобы убирать препятствия в работе Круга
+
+## Фасилитатор
+
+**Миссия:** Законодательство Круга и оперцаионные практики соответствуют Конституции.
+
+**Обязательства:**
+
+- Фасилитировать Законодательный Процесс и Тактические Встречи Круга или для его Ролей
+- Обучать других Членов Круга правилам и процессам Конституции, или по запросу, или когда не обходимо для эффективного проведения встреч
+- Оценивать встречи и записи Под-Кругов по запросу, объявляя Нарушение Процесса, если оно обнаружено
+
+## Секретарь
+
+**Миссия:** Ведение законодательных записей Круга и обеспечение стабильного процесса работы с ними.
+
+**Домены:**
+
+- Все законодательные записи Круга
+
+**Обязательства:**
+
+- Назначать Законодательных и Тактических Встреч Круга
+- Записывать и публиковать результаты Законодательных и Тактических Встреч
+- Запрашивать процесс выборов для выборных Ролей, когда срок их назначения истекает
+- Интерпретировать Конституцию и всё в границах её влияния по запросу
+
+---
+
+Холакратия является зарегистрированным торговым знаком HolacracyOne, LLC
+Этот перевод опубликован под той же лицензией, что и оригинальная конституция, то есть <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International Public License</a>.
 
 ---
