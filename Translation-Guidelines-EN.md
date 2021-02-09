@@ -1,4 +1,5 @@
 ###PURPOSE AND FOCUS OF TRANSLATION
+
 The purpose of this work is to provide an accurate translation of the official release version of the Holacracy Constitution 4.1 available at http://holacracy.org/constitution, and **NOT** to translate the <a href="https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md">development version of the Holacracy Constitution</a> hosted on GitHub.
 
 The Constitution itself is accompanied by other supporting documents (e.g. the Constitution Adoption Declaration) that are all available on GitHub at https://github.com/holacracyone/Holacracy-Constitution
